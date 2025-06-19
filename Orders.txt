@@ -1,0 +1,46 @@
+Order ID: ORD14567
+Tracking ID: TRK331450
+Timestamp: 2025-06-16 23:55:32
+Customer Name: amina
+Address: near pdo
+Phone: 12278339
+Payment Method: Cash
+
+Items:
+qtyu - $4678.00 x 1 = $4678.00
+
+Total: $4678.00
+
+Order Status: Placed
+
+----------------------------------------
+Order ID: ORD624206
+Tracking ID: TRK9104
+Timestamp: 2025-06-17 01:03:00
+Customer Name: qaswa
+Address: near pso isb
+Phone: 037899181718
+Payment Method: Cash
+
+Items:
+impel - $6700.00 x 1 = $6700.00
+
+Total: $6700.00
+
+Order Status: Placed
+
+----------------------------------------
+Order ID: ORD579264
+Tracking ID: TRK290813
+Timestamp: 2025-06-17 12:41:34
+Customer Name: amyiihs
+Address: pso lajhore
+Phone: 27338920
+Payment Method: Cash
+
+Items:
+piknok - $23890.00 x 1 = $23890.00
+
+Total: $23890.00
+
+Order Status: Placed
